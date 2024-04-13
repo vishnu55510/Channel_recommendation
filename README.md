@@ -1,3 +1,6 @@
+![organization](https://github.com/vishnu55510/Channel_recommendation/assets/162179720/e842a01c-081d-4ae5-be60-8cce1b75bd79)
+
+
 # Channel_recommendation
 
 # DPDzero Data Analyst Assignment - 2024
