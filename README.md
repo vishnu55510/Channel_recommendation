@@ -8,7 +8,6 @@ This repository contains the completed Data Analyst Assignment for DPDzero in 20
 ## Dataset
 The dataset used for this assignment contains anonymized loan data for various borrowers, including information such as amount pending, borrower location, tenure, interest rate, bounce behavior, disbursed amount, and loan number.
 
-[Download Dataset](https://prod-files-secure.s3.us-west-2.amazonaws.com/0fb337c8-6186-4010-911c-38ba2e525070/7e55b4b1-5878-4d1c-9dce-75419c39c4c5/Data_Analyst_Assignment_Dataset.csv)
 
 ## Project Details
 
